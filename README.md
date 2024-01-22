@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Lukesovarenata
+- 👋 Hi, I’m Renata Lukešová https://www.irsm.cas.cz/en/contact/mgr-renata-lukesova-gazdova-phd
+- I'm working as researcher at The Institute of Rock Structure and Mechanics of the Academy of Sciences of the Czech Republic
 - 👀 I’m interested in Seismology 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on seismological data proccesing
